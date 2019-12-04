@@ -1,11 +1,3 @@
-//
-//  Univariate polynomial calculation.c
-//  Univariate polynomial calculation
-//
-//  Created by 龚朝瑞 on 2019/12/2.
-//  Copyright © 2019 龚朝瑞. All rights reserved.
-//
-
 #include "Univariate polynomial calculation.h"
 
 struct Univariate_polynomial * Univariate_polynomial_init(int num) { // 初始化多项式

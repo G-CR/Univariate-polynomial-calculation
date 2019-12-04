@@ -1,11 +1,3 @@
-//
-//  main.c
-//  Univariate polynomial calculation
-//
-//  Created by 龚朝瑞 on 2019/12/2.
-//  Copyright © 2019 龚朝瑞. All rights reserved.
-//
-
 #include "Univariate polynomial calculation.h"
 
 int main(int argc, const char * argv[]) {

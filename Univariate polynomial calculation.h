@@ -1,11 +1,3 @@
-//
-//  Univariate polynomial calculation.h
-//  Univariate polynomial calculation
-//
-//  Created by 龚朝瑞 on 2019/12/2.
-//  Copyright © 2019 龚朝瑞. All rights reserved.
-//
-
 #ifndef Univariate_polynomial_calculation_h
 #define Univariate_polynomial_calculation_h
 
